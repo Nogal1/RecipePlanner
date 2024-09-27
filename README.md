@@ -1,6 +1,6 @@
 # Recipe Planner
 
-[Live Site URL](https://your-website-url.com)
+[Live Site URL](https://recipeplanner-frontend.onrender.com)
 
 ## Description
 
