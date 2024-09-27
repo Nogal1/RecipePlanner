@@ -1,6 +1,7 @@
 # Recipe Planner
 
 [Live Site URL](https://recipeplanner-frontend.onrender.com)
+Some issues with it as of 9/26/2024. Connection to DB refused. 
 
 ## Description
 
